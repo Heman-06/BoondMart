@@ -29,6 +29,6 @@ BoondMart is a **Flutter-based water delivery mobile application** designed for 
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
 - **Cloud & Hosting**: AWS (EC2, S3, Lambda)  
-- **APIs & Services**: Google Maps API, Firebase Authentication, Stripe Payment Gateway  
+- **APIs & Services**: Google Maps API, Firebase Authentication, Razorpay Payment Gateway  
 
 📩 **For inquiries or further discussions about the project, feel free to reach out!**  
