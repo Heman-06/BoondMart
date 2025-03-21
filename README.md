@@ -20,7 +20,7 @@ BoondMart is a **Flutter-based water delivery mobile application** designed for 
 ✅ **Node.js & Express.js backend** for handling API interactions  
 ✅ **MongoDB database** for efficient data storage  
 ✅ **AWS-hosted infrastructure** for scalability and high availability  
-✅ **Stripe payment integration** for secure transactions  
+✅ **Razorpay payment integration** for secure transactions  
 
 ---
 
